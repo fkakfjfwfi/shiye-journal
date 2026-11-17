@@ -1,0 +1,20 @@
+# 第三方参考源码，仅本地研究用，不随本站发布
+reference-wenku8/
+
+# 项目内部数据与记忆
+.workbuddy/
+
+# 应用平台内部描述文件
+.wbapp_*.genie
+
+# 本地验证截图
+*-preview.png
+home-mobile.png
+reader-preview.png
+
+# 系统与编辑器杂项
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
